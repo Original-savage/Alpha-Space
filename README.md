@@ -1,1 +1,10 @@
-# ALPHA-SPACE
+# Alpha Space
+
+## Run locally
+npm install
+npm run dev
+
+## Environment variables
+Create .env.local with:
+NEXT_PUBLIC_SUPABASE_URL=your_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
